@@ -13,7 +13,7 @@ NUMBER_OF_ENTRIES = amount of accounts generated
 
 Example Syntax : python dot_trick.py iamwashed 5 adidas.csv
 
-
+---------------------------------------------------------------------------------------------------
 INFO:
 
 - Written on Python 2
