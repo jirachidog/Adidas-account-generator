@@ -8,7 +8,7 @@ INSTRUCTIONS TO USE SCRIPT:
 
 - Chromedriver path is to be set in code. Please set according to the environment you are on.  
 
-Example Syntax : python dot_trick.py KEYWORD NUMBER_OF_ENTRIES YOUR_DESIRED_NAME.csv
+Example Syntax : python dot_trick.py KEYWORD NUMBER_OF_ACCOUNT YOUR_DESIRED_NAME.csv
 
 -------------------------------------------------------------------------------------------------------------------------
 INFO:
