@@ -32,9 +32,9 @@ def dot_trick(username):
 ar=sys.argv
 emails = dot_trick(ar[1])
 #emails=['apple.fsakhrot@gmail.com']
-fname='Alex'
-lname='k'
-passw='abcde123'
+fname='INSERT FIRST NAME'
+lname='INSER LAST NAME'
+passw='INSER PASSWORD'
 data=[];
 print (emails)
 chop = webdriver.ChromeOptions()
