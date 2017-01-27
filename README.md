@@ -1,28 +1,26 @@
-#Adidas-account-gen
+#Adidas account generator
 
 INSTRUCTIONS TO USE SCRIPT: 
+
+- Create a csv file in your directory folder. 
 
 - Make sure you insert your first/last name and your desired password in the script.
 
 - Chromedriver path is to be set in code. Please set according to the environment you are on.  
 
-Run script : python dot_trick.py KEYWORD NUMBER_OF_ENTRIES adidas.csv
+Example Syntax : python dot_trick.py KEYWORD NUMBER_OF_ENTRIES YOUR_DESIRED_NAME.csv
 
-KEYWORD           = your desired gmail username
-
-NUMBER_OF_ENTRIES = amount of accounts generated
-
-Example Syntax : python dot_trick.py iamwashed 5 adidas.csv
-
----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 INFO:
 
 - Written on Python 2
 
-- Selenium based script.
+- Selenium based script
 
 - No GmailDotEmailGenerator bullshits
 
-- Follow me on Twitter @keithcshau
+
+
+Follow me on Twitter @keithcshau
 
 
