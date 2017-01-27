@@ -9,7 +9,7 @@ Info:
 - No GmailDotEmailGenerator bullshits
 
 
-INSTRUCTIONS TO USE CODE 
+INSTRUCTIONS TO USE CODE: 
 
 - Make sure you create the csv file before running the command.
 
